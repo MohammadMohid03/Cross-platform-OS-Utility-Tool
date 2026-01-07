@@ -1,0 +1,206 @@
+Scan initiated at: 2026-01-01 09:45:06
+User Status: Standard User
+Target Path: C:/Users/hp/Desktop/Projects
+----------------------------------------
+Primary Engine: PYTHON NATIVE GUARD (Open Source Fallback)
+Reason: System services unavailable or manual override.
+
+[ENGINE: NATIVE PYTHON GUARD]
+Status: Scanning directory: C:/Users/hp/Desktop/Projects
+----------------------------------------
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\build\chunks\node_modules_b5d1def4._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\build\chunks\postcss_config_mjs_transform_ts_f0ffbaad._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\build\chunks\[root-of-the-server]__04d7a048._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\build\chunks\[root-of-the-server]__05f88b00._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\[root-of-the-server]__45c3bea7._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\components_PDFDownloadButton_tsx_3d48af23._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\components_PDFDownloadButton_tsx_53879f74._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\components_PDFDownloadButton_tsx_798a2b96._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\components_PDFDownloadButton_tsx_bececfaf._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\components_PDFDownloadButton_tsx_f677388a._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\node_modules_76603711._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\node_modules_bf671b14._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\node_modules_e5efaff3._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\node_modules_f5491fd5._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\pages__app_tsx_74d5e20e._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__17cbd238._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__1c6e4827._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__5df5c1e8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__707469fb._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__85762acf._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__9b9294e8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__a5900736._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__c13c000c._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__cfbb978d._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__dc2cfdbc._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__e8dc7b0a._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\[root-of-the-server]__f0cef52c._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\server\chunks\ssr\_ae20dfab._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_05b8decd._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_14ecd57d._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_21061ea0._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_44573b17._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_590bb6ea._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_a93fd555._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_cc04b4b8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_ccd3ea21._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_f471d3d5._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\components_PDFDownloadButton_tsx_f68f2e1f._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_2690658a._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_2a5cf4bb._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_4bb4afde._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_67a47e79._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_6d45c179._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_7a4ac4c8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_827c8cd8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_843fc015._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_@firebase_auth_dist_esm2017_ae1ae706._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_@firebase_b6321e94._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_@floating-ui_056e3f9a._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_@radix-ui_b62ef757._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_@react-pdf_6bc9d569._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_@react-pdf_reconciler_lib_8a2701c6._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_a51498a5._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_a7b77342._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_acbec207._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_af3747ca._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_brotli_cff4f121._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_c0fdabf2._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_crypto-js_04f1ec1f._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_d593cb0c._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_dompurify_dist_purify_es_mjs_4ac15257._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_dompurify_dist_purify_es_mjs_b96ac422._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_dompurify_dist_purify_es_mjs_ebae902b._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_fontkit_dist_browser-module_mjs_9dc43031._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_next_0d522bf9._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_next_582e44ca._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_next_dist_4f3d469a._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_next_dist_756b85fa._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_next_dist_e75d5331._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_next_e40e53df._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_pako_lib_4fa6de77._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_react-dom_82bb97c6._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_tailwind-merge_dist_bundle-mjs_mjs_e33d9f9e._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\node_modules_yoga-layout_dist_f14af0a0._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_475b56b8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_5771e187._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_5ece2b99._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_8ae05f8c._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_bb391dd8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_c33a2b32._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_dafe86b7._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_e6b124db._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_f41a1062._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages_index_fd5acc43._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages__app_5771e187._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages__app_7132be12._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages__error_5771e187._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\pages__error_ec6747c0._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__1485802c._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__5c5c56da._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__85e0b34a._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__8df7605f._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__923cb372._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__dbe7c147._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\[root-of-the-server]__fb6a6365._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+[DETECTED] C:/Users/hp/Desktop/Projects\hire_ai\.next\static\chunks\_ce560dd8._.js
+   -> Reason: Suspicious double extension (potential masquerading)
+----------------------------------------
+Scan Finished.
+Total Files Scanned: 590
+Threats Detected: 96
